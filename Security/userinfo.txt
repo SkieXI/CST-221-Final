@@ -1,0 +1,6 @@
+testguy		password1
+testdude	password2
+testbloke	password3
+testbro	 	password4
+testbrah	passwrod5
+friendbot	tizisgreat
